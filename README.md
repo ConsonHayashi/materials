@@ -1,30 +1,35 @@
 # buildings
 
-## git & repo
+## environment & cli
 
-## maven & repo
+### git & repo
 
-## docker & repo
+### maven & repo
 
-## prometheus & grafana
+### docker & repo
 
-## mysql & cloud beave
+### kubenetes
 
-## elasticsearch & kibana
+### jenkins & UI
 
-## redis & UI
+## plugin
 
-## kafka & UI
+### prometheus & grafana
 
-## rabbitmq & UI
+### mysql & cloud beave
 
-## jenkins & UI
+### elasticsearch & kibana
 
-## hadoop
+### redis & UI
 
-## apache tomcat
+### kafka & UI
 
-## docker
+### rabbitmq & UI
 
-## kubenetes
+### hadoop
+
+### apache tomcat
+
+
+
 
