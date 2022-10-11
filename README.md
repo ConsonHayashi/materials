@@ -2,7 +2,7 @@
 
 ## git & repo
 
-## maven repo
+## maven & repo
 
 ## docker & repo
 
@@ -23,4 +23,8 @@
 ## hadoop
 
 ## apache tomcat
+
+## docker
+
+## kubenetes
 
